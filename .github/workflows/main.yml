@@ -3,7 +3,7 @@ name: build
 on:
   push:
     branches:
-    - l4d2-update
+    - l4d2
     paths-ignore:
     - LICENSE
     - README.md
