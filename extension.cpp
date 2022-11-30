@@ -44,6 +44,7 @@ CExtension g_pExtension;
 SMEXT_LINK(&g_pExtension);
 
 IScriptManager * g_pScriptManager;
+IFileSystem * g_pFullFileSystem;
 
 CFunctions g_Functions;
 
